@@ -1,0 +1,26 @@
+body {
+    background-color: #800000;
+    color: pink;
+}
+
+p {
+    color: yellow;
+    text-indent: 50px;
+}
+
+h1 {
+    text-decoration: underline;
+    color: orange;
+    text-align: center;
+}
+
+h3 {
+    text-decoration: overline;
+    color: #ccffff;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: hotpink;
+}
